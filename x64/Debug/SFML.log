@@ -1,0 +1,20 @@
+﻿  Snake.cpp
+C:\Users\vishv\source\repos\SFML\SFML\Snake.cpp(44,52): warning C4244: 'argument': conversion from '_Ty' to 'T', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\vishv\source\repos\SFML\SFML\Snake.cpp(44,43): warning C4244: 'argument': conversion from '_Ty' to 'T', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+          and
+          [
+              T=float
+          ]
+  SFML.vcxproj -> C:\Users\vishv\source\repos\SFML\x64\Debug\SFML.exe
